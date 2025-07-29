@@ -21,10 +21,10 @@ Meals Page:
 ![image](https://github.com/Yahds/Recipe-and-Menu-Website_NomNom/assets/137850019/8b460fd7-10af-4315-b2c5-dcbd1b06cb96)
 
 ## Authors and acknowledgment
-Jonison Martel Molintas (Recipes Page)
-Joshua Daniel David (Meals Page)
-Haydee Shane Saguid (Recipes Page)
-Maervin Villalobos (Home Page)
-Albert Jannsen Ramos (Documentation and Design)
-Jahn Crystan Abella (Documentation and Design)
-Ariel Tarlit Jr. (Documentation and Design)
+Jonison Martel Molintas
+Joshua Daniel David 
+Haydee Shane Saguid
+Maervin Villalobos 
+Albert Jannsen Ramos 
+Jahn Crystan Abella 
+Ariel Tarlit Jr. 
